@@ -17,6 +17,8 @@ To download the upload file you look for the name excact and it will download di
 <br><br><br>
 </strong>
 <img src="https://cdn.discordapp.com/attachments/1002625111997812836/1011956108274958386/unknown.png" width="720", height="400">
+<br><br>
+<img src="https://cdn.discordapp.com/attachments/1002625111997812836/1011956805292802048/unknown.png" width="720", height="400">
 </p>
 <br>
 
